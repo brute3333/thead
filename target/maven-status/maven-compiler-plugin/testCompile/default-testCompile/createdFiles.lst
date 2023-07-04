@@ -1,0 +1,10 @@
+za\co\wethinkcode\robot\SquareObstacleTest.class
+za\co\wethinkcode\robot\AcceptanceTest\LookCommandTest.class
+za\co\wethinkcode\robot\DirectionTest.class
+za\co\wethinkcode\robot\AcceptanceTest\StateCommandTest.class
+CommandTest\TestCommand.class
+za\co\wethinkcode\robot\QuitCommand.class
+za\co\wethinkcode\robot\RequestTest.class
+za\co\wethinkcode\robot\PositionTest.class
+za\co\wethinkcode\robot\WorldTest.class
+za\co\wethinkcode\robot\AcceptanceTest\LaunchCommandTest.class
